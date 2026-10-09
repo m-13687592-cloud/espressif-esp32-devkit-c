@@ -1,0 +1,23 @@
+{
+    "name": "espressif esp32 devkit-c",
+    "description": "",
+    "dependencies": {
+        "espressif-esp32-devkit-c": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.77",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
